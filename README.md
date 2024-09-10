@@ -4,10 +4,8 @@ En este repositorio se encuentran los algoritmos analizados en la tarea 1 de INF
 - Merge Sort
 - Quicksort
 - Función Sort() implementada en C++
-- Algoritmo iterativo cúbico tradicional
-- Algoritmo iterativo cúbico optimizado
-- Algoritmo de Strassen
-  
+Además, se puede encontrar también el algoritmo generador de los datasets:
+  - Generador_datasets
 Nombre: Natalia Antileo
 
 Rol USM: 202173070-2
